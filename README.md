@@ -10,7 +10,7 @@ Landing Page for All My Projects and Repositories
     - describe each thing
    
 2.) Codebreak Mimic 
-  Describe the project.... GCU
+create a new repo
   Video Link
   Presentation Link
   Important Documents embedded
