@@ -23,9 +23,11 @@ Landing Page for All My Projects and Repositories
       - A More Enhanced Processor
       
 ####  b.) Intel: Embedded Systems Course
+> Description of the course
  
 ####  c.) circuits
-    - describe each thing
+> Describe what and why i've  designed and built these circuits learning varilog vhdl architecture models digital logic etc.
+> privded a few circuit designs, code screensot,and link to a video
    
 ## 2.) Codebreaker Mimic 
 create a new repo
