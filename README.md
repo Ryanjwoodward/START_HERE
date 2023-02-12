@@ -2,7 +2,7 @@
 Landing Page for All My Projects and Repositories
 
 
-### 1.) Embedded Systems Projects
+## 1.) Embedded Systems Projects
   https://github.com/Ryanjwoodward/Embedded_Systems_Projects
   
 ####  A.) Intel: Digital Logic Course
@@ -15,16 +15,16 @@ Landing Page for All My Projects and Repositories
 ####  C.) circuits
     - describe each thing
    
-### 2.) Codebreak Mimic 
+## 2.) Codebreaker Mimic 
 create a new repo
   Video Link
   Presentation Link
   Important Documents embedded
   Screenshot of things
   
-### 3.) Poorman's ALU
+## 3.) Poorman's ALU
 
 
-### 4.) Data Visualization Dashboard
+## 4.) Data Visualization Dashboard
 
-### 5.) Lopes Parking Application
+## 5.) Lopes Parking Application
