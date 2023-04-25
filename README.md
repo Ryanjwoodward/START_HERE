@@ -40,14 +40,23 @@ Landing Page for All My Projects and Repositories
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
 ## 2.) Codebreaker Mimic 
+> Description
+> Screenshot & Gif
 https://github.com/Ryanjwoodward/Codebreaker_Mimic
   
 ## 3.) Poorman's ALU
+> Description
+> Screenshot & Gif
 https://github.com/Ryanjwoodward/Poormans_ALU
 
 ## 4.) Data Visualization Dashboard
+> Description
+> Screenshot & Gif
 https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
+
 ## 5.) Lopes Parking Application
+> Description
+> Screenshot & Gif
 https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 
 
