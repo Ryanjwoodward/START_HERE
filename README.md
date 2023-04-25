@@ -2,8 +2,8 @@
 Landing Page for All My Projects and Repositories
 
 
-## 1.) Embedded Systems Projects
-  https://github.com/Ryanjwoodward/Embedded_Systems_Projects
+## 1.) Digital Logic & Embedded Systems Courses
+ https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
   
 ####  a.) Intel: Digital Logic Course
     
