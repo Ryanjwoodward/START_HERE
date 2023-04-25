@@ -25,6 +25,7 @@ Landing Page for All My Projects and Repositories
 ####  b.) Intel: Embedded Systems Course
 >_Intel's Embedded Systems Course_ through FPGA Academ provides an introduction to traditional programming of embedded systems using Linux. The course has an emphasis on I/O mehtodologies and the topics of the course include from memory-mapped I/O, Embedded Linux, Embedded Development, Kernel space & modules, interrupts, accelerometers, and working with audio and video perhipherals.
 >The Projects for each Lab are:
+
  - Getting Started with linux
  - Developing Linux Programs that Communicate with the FPGA
  - Character Device Drivers
