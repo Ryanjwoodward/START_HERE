@@ -1,6 +1,6 @@
 # START_HERE
 Landing Page for All My Projects and Repositories
-
+![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
 
 ## 1.) Digital Logic & Embedded Systems Courses
  https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
@@ -50,3 +50,4 @@ https://github.com/Ryanjwoodward/Poormans_ALU
 https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
 ## 5.) Lopes Parking Application
 https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
+
