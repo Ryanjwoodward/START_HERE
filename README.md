@@ -29,11 +29,7 @@ Landing Page for All My Projects and Repositories
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
 ## 2.) Codebreaker Mimic 
-create a new repo
-  Video Link
-  Presentation Link
-  Important Documents embedded
-  Screenshot of things
+https://github.com/Ryanjwoodward/Codebreaker_Mimic
   
 ## 3.) Poorman's ALU
 https://github.com/Ryanjwoodward/Poormans_ALU
