@@ -26,8 +26,7 @@ Landing Page for All My Projects and Repositories
 > Description of the course
  
 ####  c.) circuits
-> Describe what and why i've  designed and built these circuits learning varilog vhdl architecture models digital logic etc.
-> privded a few circuit designs, code screensot,and link to a video
+> This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
 ## 2.) Codebreaker Mimic 
 create a new repo
@@ -37,7 +36,7 @@ create a new repo
   Screenshot of things
   
 ## 3.) Poorman's ALU
-
+https://github.com/Ryanjwoodward/Poormans_ALU
 
 ## 4.) Data Visualization Dashboard
 https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
