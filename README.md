@@ -23,8 +23,6 @@ Landing Page for All My Projects and Repositories
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Codebreaker_Mimic
 
-https://user-images.githubusercontent.com/48807137/234724826-6aa20e5e-e8b2-4cc2-8b56-8b9b53254efa.mp4
-
 demo video link: https://youtu.be/oZ3qNU8Owik
 
 https://user-images.githubusercontent.com/48807137/234725303-6212e18e-088e-4554-b7bf-6fdd86e72fda.mp4
