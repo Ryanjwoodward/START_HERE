@@ -12,8 +12,10 @@ Landing Page for All My Projects and Repositories
 ####  b.) Intel: Embedded Systems Course
 >_Intel's Embedded Systems Course_ through FPGA Academ provides an introduction to traditional programming of embedded systems using Linux. The course has an emphasis on I/O mehtodologies and the topics of the course include from memory-mapped I/O, Embedded Linux, Embedded Development, Kernel space & modules, interrupts, accelerometers, and working with audio and video perhipherals.
 
+#### c.) Udemy Digital Logic Course
+> Description of the course and what was involved here...
  
-####  c.) circuits
+####  d.) circuits
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
 ## 2.) Codebreaker Mimic 
