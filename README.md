@@ -43,16 +43,28 @@ Landing Page for All My Projects and Repositories
 > Description
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Codebreaker_Mimic
+
+demo video link: https://youtu.be/oZ3qNU8Owik
   
 ## 3.) Poorman's ALU
 > Description
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Poormans_ALU
 
+video with commentary: https://studio.youtube.com/video/80nXXKe2rMk/edit
+
+video with Captions: https://youtu.be/YIBQfXJgLzs
+
+video to Presentation: https://studio.youtube.com/video/rl7aGIHYdLI/edit
+
 ## 4.) Data Visualization Dashboard
 > Description
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
+
+video link with commentary: https://youtu.be/WhGbs3zrJt4
+
+video link with captions: https://youtu.be/n69-jN86PoM
 
 ## 5.) Lopes Parking Application
 > Description
