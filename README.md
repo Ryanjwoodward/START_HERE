@@ -26,6 +26,9 @@ https://github.com/Ryanjwoodward/Codebreaker_Mimic
 https://user-images.githubusercontent.com/48807137/234724826-6aa20e5e-e8b2-4cc2-8b56-8b9b53254efa.mp4
 
 demo video link: https://youtu.be/oZ3qNU8Owik
+
+https://user-images.githubusercontent.com/48807137/234725303-6212e18e-088e-4554-b7bf-6fdd86e72fda.mp4
+
   
 ## 3.) Poorman's ALU
 > Description
@@ -57,4 +60,7 @@ https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 
 
 https://user-images.githubusercontent.com/48807137/234724738-5590b3d9-765b-4200-9739-c41db30c0cdc.mp4
+
+
+
 
