@@ -23,6 +23,8 @@ Landing Page for All My Projects and Repositories
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Codebreaker_Mimic
 
+https://user-images.githubusercontent.com/48807137/234724826-6aa20e5e-e8b2-4cc2-8b56-8b9b53254efa.mp4
+
 demo video link: https://youtu.be/oZ3qNU8Owik
   
 ## 3.) Poorman's ALU
@@ -50,6 +52,9 @@ video link with captions: https://youtu.be/n69-jN86PoM
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 
-https://youtu.be/VwLckqfPL-Y
 
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
+
+
+https://user-images.githubusercontent.com/48807137/234724738-5590b3d9-765b-4200-9739-c41db30c0cdc.mp4
+
