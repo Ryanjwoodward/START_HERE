@@ -28,11 +28,11 @@ Landing Page for All My Projects and Repositories
   
 ## 3.) Poorman's ALU
 > Poormans ALU (PALU) is an embedded systems project built on Intel’s DE10-Standard Board using Linaro Linux, C, VHDL, Verilog, and Arm Assembly. PALU is a simplified Arithmetic Logic Unit (ALU) that can add, subtract, or AND two 4-bit inputs. This project required an extensive amount of planning and design including K-maps, Truth Tables, Boolean Logic, and Schematic Capture. In development of this project I implemented the three primary architecture models in VHDL namely behavioral, data flow, and structural. 
-> Screenshot & Gif
 
+![PALU](https://user-images.githubusercontent.com/48807137/234731996-01f2038e-c91c-4fcf-a6a5-e8e48497488c.gif)
 
 > Project Repo: https://github.com/Ryanjwoodward/Poormans_ALU
-
+>
 > Full Demo: https://studio.youtube.com/video/80nXXKe2rMk/edit
 
 ## 4.) Data Visualization Dashboard
@@ -48,7 +48,6 @@ video link with captions: https://youtu.be/n69-jN86PoM
 > Description
 > Screenshot & Gif
 https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
-
 
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
 
