@@ -16,7 +16,7 @@ Landing Page for All My Projects and Repositories
 #### c.) Udemy Digital Logic Course
 > Description of the course and what was involved here...
  
-####  d.) circuits
+####  d.) Circuits
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
 ## 2.) Codebreaker Game 
@@ -51,8 +51,8 @@ Landing Page for All My Projects and Repositories
 > Description
 
 ![LPA](https://user-images.githubusercontent.com/48807137/234740761-0565c554-f1ee-443b-994f-d42bd70a77db.gif)![lpa](https://user-images.githubusercontent.com/48807137/234741071-2077e702-9505-4fec-943f-c4908ff74465.jpg)
-
->Project Repo: https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
+ 
+> Project Repo: https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 >
 > Full Demo: https://youtu.be/VwLckqfPL-Y
 
