@@ -38,12 +38,13 @@ Landing Page for All My Projects and Repositories
 
 ## 4.) Data Visualization Dashboard
 > Description
-> Screenshot & Gif
-https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
+![Change Streams](https://user-images.githubusercontent.com/48807137/234738580-45713ea2-9acd-4a78-a3ff-db2ef052a463.gif)
 
-video link with commentary: https://youtu.be/WhGbs3zrJt4
 
-video link with captions: https://youtu.be/n69-jN86PoM
+> Project Repo: https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
+>
+>Full Demo: https://youtu.be/WhGbs3zrJt4
+
 
 ## 5.) Lopes Parking Application
 > Description
@@ -51,6 +52,8 @@ video link with captions: https://youtu.be/n69-jN86PoM
 https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
+
+
 
 
 
