@@ -37,7 +37,7 @@ Landing Page for All My Projects and Repositories
 > Full Demo: https://studio.youtube.com/video/80nXXKe2rMk/edit
 
 ## 4.) Data Visualization Dashboard
-> Description
+> This Data Dashboard was the basis for my Senior ‘Capstone project for Grand Canyon University’s Software Engineering Program. I had an opportunity to intern with Paychex for two semesters as I developed the project. The Dashboard is designed to expose data stored in a relational database to the User Interface that supports a variety of functions such as sorting, filtering, paging, and data exportation (.csv). Further more I was tasked with building a RESTful web service using Java and Springboot and a data management layer that leveraged MongoDB’s Change Streams to maintain both Mongo Collections and the MariaDB schema.
 
 ![Change Streams](https://user-images.githubusercontent.com/48807137/234738580-45713ea2-9acd-4a78-a3ff-db2ef052a463.gif)![pcd](https://user-images.githubusercontent.com/48807137/234739215-ecf23f94-4199-4b88-b120-489a5bc27294.jpg)
 
