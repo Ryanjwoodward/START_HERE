@@ -52,5 +52,3 @@ https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
 
 
-https://user-images.githubusercontent.com/48807137/234724738-5590b3d9-765b-4200-9739-c41db30c0cdc.mp4
-
