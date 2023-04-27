@@ -19,7 +19,7 @@ Landing Page for All My Projects and Repositories
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
 ## 2.) Codebreaker Game 
-> Codebreaker is an embedded systems project built on Intel’s DE10-Standard Board using Linaro Linux, C, and Verilog. The project simulates the game Codebreaker (aka Mastermind). The User is prompted by statements on the LCD screen and provides input via the pushbuttons.
+> Codebreaker is an embedded systems project built on Intel’s DE10-Standard Board using Linaro Linux, C, and Verilog. The project simulates the game Codebreaker (aka Mastermind). The User is prompted by statements on the LCD screen and provides input via the pushbuttons. This project was designed and built for my embedded systems 1 course at Grand Canyon University.
 
 ![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker2](https://user-images.githubusercontent.com/48807137/234727970-cbefc4ee-4eed-40e0-a196-eb9fe26335ec.jpg)
 > Project Repo: https://github.com/Ryanjwoodward/Codebreaker_Mimic
@@ -27,15 +27,13 @@ Landing Page for All My Projects and Repositories
 > Full Demo: https://youtu.be/oZ3qNU8Owik
   
 ## 3.) Poorman's ALU
-> Description
+> Poormans ALU (PALU) is an embedded systems project built on Intel’s DE10-Standard Board using Linaro Linux, C, VHDL, Verilog, and Arm Assembly. PALU is a simplified Arithmetic Logic Unit (ALU) that can add, subtract, or AND two 4-bit inputs. This project required an extensive amount of planning and design including K-maps, Truth Tables, Boolean Logic, and Schematic Capture. In development of this project I implemented the three primary architecture models in VHDL namely behavioral, data flow, and structural. 
 > Screenshot & Gif
-https://github.com/Ryanjwoodward/Poormans_ALU
 
-video with commentary: https://studio.youtube.com/video/80nXXKe2rMk/edit
 
-video with Captions: https://youtu.be/YIBQfXJgLzs
+> Project Repo: https://github.com/Ryanjwoodward/Poormans_ALU
 
-video to Presentation: https://studio.youtube.com/video/rl7aGIHYdLI/edit
+> Full Demo: https://studio.youtube.com/video/80nXXKe2rMk/edit
 
 ## 4.) Data Visualization Dashboard
 > Description
