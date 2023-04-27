@@ -51,7 +51,7 @@ Landing Page for All My Projects and Repositories
 
 
 ## 5.) Lopes Parking Application
-> Description
+> The Lopes Parking Application was a Mobile App Project with an objective provide a dynamic solution to issues of campus parking at Grand canyon University. The App was built using Flutter, Dart, Firebase, and Android Studio. For the first phase of development user are able to create and login to an account, add their vehicle and parking permit information, view real-time data of the campus parking garages, and check in or out of a parking spot via a QR code.
 
 ![LPA](https://user-images.githubusercontent.com/48807137/234740761-0565c554-f1ee-443b-994f-d42bd70a77db.gif)![lpa](https://user-images.githubusercontent.com/48807137/234741071-2077e702-9505-4fec-943f-c4908ff74465.jpg)
  
