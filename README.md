@@ -39,7 +39,7 @@ Landing Page for All My Projects and Repositories
 ## 4.) Data Visualization Dashboard
 > Description
 
-![Change Streams](https://user-images.githubusercontent.com/48807137/234738580-45713ea2-9acd-4a78-a3ff-db2ef052a463.gif)
+![Change Streams](https://user-images.githubusercontent.com/48807137/234738580-45713ea2-9acd-4a78-a3ff-db2ef052a463.gif)![pcd](https://user-images.githubusercontent.com/48807137/234739215-ecf23f94-4199-4b88-b120-489a5bc27294.jpg)
 
 
 > Project Repo: https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
@@ -53,6 +53,7 @@ Landing Page for All My Projects and Repositories
 https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
+
 
 
 
