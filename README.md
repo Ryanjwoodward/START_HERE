@@ -28,7 +28,7 @@ Landing Page for All My Projects and Repositories
 > Full Demo: https://youtu.be/oZ3qNU8Owik
   
 ## 3.) Poorman's ALU
-> __Poormans ALU (PALU)__ is an _embedded systems project_ built on __Intel’s DE10-Standard Board using Linaro Linux, C, VHDL, Verilog, and Arm Assembly__. PALU is a simplified Arithmetic Logic Unit (ALU) that can add, subtract, or AND two 4-bit inputs. This project required an extensive amount of planning and design including __K-maps, Truth Tables, Boolean Logic, and Schematic Capture__. For this project I implemented the three primary __architecture models in VHDL namely behavioral, data flow, and structural__. 
+> __Poormans ALU (PALU)__ is an _embedded systems project_ built on __Intel’s DE10-Standard Board using Linaro Linux, C, VHDL, Verilog, and Arm Assembly__. PALU is a simplified Arithmetic Logic Unit (ALU) that can add, subtract, or AND two 4-bit inputs. This project required an extensive amount of planning and design including __K-maps, Truth Tables, Boolean Logic, and Schematic Capture__. For this project I implemented three __architecture models in VHDL namely behavioral, data flow, and structural__. 
 
 ![PALU_1](https://user-images.githubusercontent.com/48807137/234735970-f65634fc-00d7-47b2-8769-9fd1d8f87e22.gif) ![palu1](https://user-images.githubusercontent.com/48807137/234735041-293e3129-a201-41a9-a51c-a28ee7c2dae5.jpg)
 
