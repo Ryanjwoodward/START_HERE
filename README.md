@@ -21,7 +21,7 @@ Landing Page for All My Projects and Repositories
 ## 2.) Codebreaker Mimic 
 > Description
 
-![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif)
+![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker_1](https://user-images.githubusercontent.com/48807137/234727713-ea9a2ccb-3359-44d2-b7bb-0272f9f9d37a.png)
 > Project Repo: https://github.com/Ryanjwoodward/Codebreaker_Mimic
 > 
 > Full Demo: https://youtu.be/oZ3qNU8Owik
@@ -56,6 +56,7 @@ https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 
 
 https://user-images.githubusercontent.com/48807137/234724738-5590b3d9-765b-4200-9739-c41db30c0cdc.mp4
+
 
 
 
