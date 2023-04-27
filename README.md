@@ -18,7 +18,7 @@ Landing Page for All My Projects and Repositories
 ####  d.) circuits
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
    
-## 2.) Codebreaker Mimic 
+## 2.) Codebreaker Game 
 > Codebreaker is an embedded systems project built on Intel’s DE10-Standard Board using Linaro Linux, C, and Verilog. The project simulates the game Codebreaker (aka Mastermind). The User is prompted by statements on the LCD screen and provides input via the pushbuttons.
 
 ![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker2](https://user-images.githubusercontent.com/48807137/234727970-cbefc4ee-4eed-40e0-a196-eb9fe26335ec.jpg)
