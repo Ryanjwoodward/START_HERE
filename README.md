@@ -1,4 +1,4 @@
-# START_HERE
+# START_HERE ![my-logo-small](https://user-images.githubusercontent.com/48807137/234915331-1c948976-17ae-4cca-b1c8-687f4cce5a25.png)
 Landing Page for All My Projects and Repositories
 ***
 
@@ -65,6 +65,7 @@ Landing Page for All My Projects and Repositories
 
 
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
+
 
 
 
