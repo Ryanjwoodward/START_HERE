@@ -21,7 +21,7 @@ Landing Page for All My Projects and Repositories
 ## 2.) Codebreaker Mimic 
 > Description
 
-![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker_1](https://user-images.githubusercontent.com/48807137/234727713-ea9a2ccb-3359-44d2-b7bb-0272f9f9d37a.png)
+![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker2](https://user-images.githubusercontent.com/48807137/234727970-cbefc4ee-4eed-40e0-a196-eb9fe26335ec.jpg)
 > Project Repo: https://github.com/Ryanjwoodward/Codebreaker_Mimic
 > 
 > Full Demo: https://youtu.be/oZ3qNU8Owik
