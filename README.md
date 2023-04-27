@@ -50,7 +50,7 @@ Landing Page for All My Projects and Repositories
 ## 5.) Lopes Parking Application
 > Description
 
-![LPA](https://user-images.githubusercontent.com/48807137/234740761-0565c554-f1ee-443b-994f-d42bd70a77db.gif)
+![LPA](https://user-images.githubusercontent.com/48807137/234740761-0565c554-f1ee-443b-994f-d42bd70a77db.gif)![lpa](https://user-images.githubusercontent.com/48807137/234741071-2077e702-9505-4fec-943f-c4908ff74465.jpg)
 
 >Project Repo: https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 >
@@ -65,6 +65,7 @@ Landing Page for All My Projects and Repositories
 
 
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
+
 
 
 
