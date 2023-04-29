@@ -24,6 +24,10 @@ Landing Page for All My Projects and Repositories
 ####  d.) Circuits
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
 
+![quad21mux - Made with Clipchamp](https://user-images.githubusercontent.com/48807137/235309499-691d55d5-07e6-4c2b-8ade-73b4532d3e1a.gif)
+![quad_2_1_mux_schematic](https://user-images.githubusercontent.com/48807137/235309261-455faef6-3a7b-4d90-aefd-7b4e8c0d60ad.jpg)
+![quad_2_1_mux truth table](https://user-images.githubusercontent.com/48807137/235309355-ffb80096-2807-4ab4-8427-cff2e84cdcdc.jpg)
+
 > __Youtube Playlist:__ https://youtube.com/playlist?list=PL5teYV_4Hzy9-4UqpHoetJJznfPDcJPGh
 ***   
 ## 2.) Codebreaker Game 
@@ -70,7 +74,7 @@ Landing Page for All My Projects and Repositories
 
 
 
-
+***
 ![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
 
 
