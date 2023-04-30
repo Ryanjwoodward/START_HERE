@@ -75,15 +75,13 @@ Landing Page for All My Projects and Repositories
 
 
 
+
+
+
+
+
+
+
 ***
-![My-Logo-Final](https://user-images.githubusercontent.com/48807137/234431823-62b87718-771b-4978-8646-23dc4a23723a.png)
-
-
-
-
-
-
-
-
-
+<img src="https://user-images.githubusercontent.com/48807137/235380135-04ea198e-11fe-48c2-95de-b43fab024d9a.png"/>
 
