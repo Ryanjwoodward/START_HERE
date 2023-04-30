@@ -1,10 +1,9 @@
-<img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="200" /># START_HERE 
+# START_HERE  <img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="30" />
 Landing Page for All My Projects and Repositories
 ***
 
 # 1.) Digital Logic & Embedded Systems Courses
 > This Repository Contains Code, Documents, Circuit, and Projects from many of the courses I've taken from a Digial Logic Course by Udemy and Intel, an Embedded Systems Course by Intel, Embedded Systems Classes at Grand Canyon University, and Microchips Embedded Linux, SoC's, and Embedded System Design courses
->![My-Logo-Final](https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png)
 
 > Repo Home: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
   
