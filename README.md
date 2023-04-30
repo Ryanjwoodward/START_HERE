@@ -2,7 +2,7 @@
 Landing Page for All My Projects and Repositories
 ***
 
-## 1.) Digital Logic & Embedded Systems Courses
+# 1.) Digital Logic & Embedded Systems Courses
 > This Repository Contains Code, Documents, Circuit, and Projects from many of the courses I've taken from a Digial Logic Course by Udemy and Intel, an Embedded Systems Course by Intel, Embedded Systems Classes at Grand Canyon University, and Microchips Embedded Linux, SoC's, and Embedded System Design courses
 >
 > Repo Home: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
@@ -30,7 +30,7 @@ Landing Page for All My Projects and Repositories
 
 > __Youtube Playlist:__ https://youtube.com/playlist?list=PL5teYV_4Hzy9-4UqpHoetJJznfPDcJPGh
 ***   
-## 2.) Codebreaker Game 
+# 2.) Codebreaker Game 
 > __Codebreaker__ is an _embedded systems project_ built on __Intel’s DE10-Standard Board using Linaro Linux, C, and Verilog__. The project simulates the game Codebreaker (aka Mastermind). The User is prompted by statements on the LCD screen and provides input via the pushbuttons. This project was designed and built for my embedded systems 1 course at Grand Canyon University.
 
 ![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker2](https://user-images.githubusercontent.com/48807137/234727970-cbefc4ee-4eed-40e0-a196-eb9fe26335ec.jpg)
@@ -38,7 +38,7 @@ Landing Page for All My Projects and Repositories
 >
 > __Full Demo:__ https://youtu.be/oZ3qNU8Owik
 ***  
-## 3.) Poorman's ALU
+# 3.) Poorman's ALU
 > __Poormans ALU (PALU)__ is an _embedded systems project_ built on __Intel’s DE10-Standard Board using Linaro Linux, C, VHDL, Verilog, Quaturs IP Cores, and Arm Assembly__. PALU is a simplified Arithmetic Logic Unit (ALU) that can add, subtract, or AND two 4-bit inputs. This project required an extensive amount of planning and design including __K-maps, Truth Tables, Boolean Logic, and Schematic Capture__. For this project I implemented three __architecture models in VHDL namely behavioral, data flow, and structural__. 
 
 ![PALU_1](https://user-images.githubusercontent.com/48807137/234735970-f65634fc-00d7-47b2-8769-9fd1d8f87e22.gif) ![palu1](https://user-images.githubusercontent.com/48807137/234737427-07ed79c9-66d7-4915-a960-0fa6a519415f.jpg)
@@ -47,7 +47,7 @@ Landing Page for All My Projects and Repositories
 >
 > __Full Demo:__ https://studio.youtube.com/video/80nXXKe2rMk/edit
 ***
-## 4.) Data Visualization Dashboard
+# 4.) Data Visualization Dashboard
 > This Data Dashboard was the basis for my _Senior ‘Capstone project_ for _Grand Canyon University’s Software Engineering Program_. I had an opportunity to __intern with Paychex__ for two semesters as I developed the project. The Dashboard is designed to expose data stored in a relational database to the User Interface that supports a variety of functions such as sorting, filtering, paging, and data exportation (.csv). Further more I was tasked with building a __RESTful web service using Java and Springboot__ and a data management layer that leveraged __MongoDB’s Change Streams__ to maintain both Mongo Collections and the MariaDB schema.
 
 ![Change Streams](https://user-images.githubusercontent.com/48807137/234738580-45713ea2-9acd-4a78-a3ff-db2ef052a463.gif)![pcd](https://user-images.githubusercontent.com/48807137/234739215-ecf23f94-4199-4b88-b120-489a5bc27294.jpg)
@@ -58,7 +58,7 @@ Landing Page for All My Projects and Repositories
 > __Full Demo:__ https://youtu.be/WhGbs3zrJt4
 
 ***
-## 5.) Lopes Parking Application
+# 5.) Lopes Parking Application
 > The Lopes Parking Application was a Mobile App Project with an objective provide a dynamic solution to issues of campus parking at Grand canyon University. The App was built using Flutter, Dart, Firebase, and Android Studio. For the first phase of development user are able to create and login to an account, add their vehicle and parking permit information, view real-time data of the campus parking garages, and check in or out of a parking spot via a QR code.
 
 ![LPA](https://user-images.githubusercontent.com/48807137/234740761-0565c554-f1ee-443b-994f-d42bd70a77db.gif)![lpa](https://user-images.githubusercontent.com/48807137/234741071-2077e702-9505-4fec-943f-c4908ff74465.jpg)
