@@ -1,10 +1,11 @@
-# START_HERE ![my-logo-small](https://user-images.githubusercontent.com/48807137/234915331-1c948976-17ae-4cca-b1c8-687f4cce5a25.png) 
+<img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="200" /># START_HERE 
 Landing Page for All My Projects and Repositories
 ***
-<img src="https://user-images.githubusercontent.com/48807137/234915331-1c948976-17ae-4cca-b1c8-687f4cce5a25.png" width="200" />
+
 # 1.) Digital Logic & Embedded Systems Courses
 > This Repository Contains Code, Documents, Circuit, and Projects from many of the courses I've taken from a Digial Logic Course by Udemy and Intel, an Embedded Systems Course by Intel, Embedded Systems Classes at Grand Canyon University, and Microchips Embedded Linux, SoC's, and Embedded System Design courses
->
+>![My-Logo-Final](https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png)
+
 > Repo Home: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
   
 ####  a.) Intel: Digital Logic Course
