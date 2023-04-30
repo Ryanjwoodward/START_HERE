@@ -5,7 +5,7 @@ Landing Page for All My Projects and Repositories
 # 1.) Digital Logic & Embedded Systems Courses
 > This Repository Contains Code, Documents, Circuit, and Projects from many of the courses I've taken from a Digial Logic Course by Udemy and Intel, an Embedded Systems Course by Intel, Embedded Systems Classes at Grand Canyon University, and Microchips Embedded Linux, SoC's, and Embedded System Design courses
 
-> Repo Home: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
+><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> Repo Home: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
   
 ####  a.) Intel: Digital Logic Course
     
@@ -36,7 +36,7 @@ Landing Page for All My Projects and Repositories
 > __Codebreaker__ is an _embedded systems project_ built on __Intel’s DE10-Standard Board using Linaro Linux, C, and Verilog__. The project simulates the game Codebreaker (aka Mastermind). The User is prompted by statements on the LCD screen and provides input via the pushbuttons. This project was designed and built for my embedded systems 1 course at Grand Canyon University.
 
 ![Codebreaker](https://user-images.githubusercontent.com/48807137/234725641-3a583031-16dc-4010-8174-79c3402e56fb.gif) ![codebreaker2](https://user-images.githubusercontent.com/48807137/234727970-cbefc4ee-4eed-40e0-a196-eb9fe26335ec.jpg)
-> __Project Repo__: https://github.com/Ryanjwoodward/Codebreaker_Mimic
+><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> __Project Repo__: https://github.com/Ryanjwoodward/Codebreaker_Mimic
 >
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/oZ3qNU8Owik
 ***  
@@ -45,7 +45,7 @@ Landing Page for All My Projects and Repositories
 
 ![PALU_1](https://user-images.githubusercontent.com/48807137/234735970-f65634fc-00d7-47b2-8769-9fd1d8f87e22.gif) ![palu1](https://user-images.githubusercontent.com/48807137/234737427-07ed79c9-66d7-4915-a960-0fa6a519415f.jpg)
 
-> __Project Repo:__ https://github.com/Ryanjwoodward/Poormans_ALU
+><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> __Project Repo:__ https://github.com/Ryanjwoodward/Poormans_ALU
 >
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://studio.youtube.com/video/80nXXKe2rMk/edit
 ***
@@ -55,7 +55,7 @@ Landing Page for All My Projects and Repositories
 ![Change Streams](https://user-images.githubusercontent.com/48807137/234738580-45713ea2-9acd-4a78-a3ff-db2ef052a463.gif)![pcd](https://user-images.githubusercontent.com/48807137/234739215-ecf23f94-4199-4b88-b120-489a5bc27294.jpg)
 
 
-> __Project Repo:__ https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
+><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> __Project Repo:__ https://github.com/Ryanjwoodward/Paychex-W2-Dashboard
 >
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/WhGbs3zrJt4
 
@@ -65,7 +65,7 @@ Landing Page for All My Projects and Repositories
 
 ![LPA](https://user-images.githubusercontent.com/48807137/234740761-0565c554-f1ee-443b-994f-d42bd70a77db.gif)![lpa](https://user-images.githubusercontent.com/48807137/234741071-2077e702-9505-4fec-943f-c4908ff74465.jpg)
  
-> __Project Repo:__ https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
+><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> __Project Repo:__ https://github.com/Ryanjwoodward/Lopes_Parking_Mobile_Application
 >
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Full Demo:__ https://youtu.be/VwLckqfPL-Y
 
