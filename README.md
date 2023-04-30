@@ -1,4 +1,4 @@
-# START_HERE  <img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="30" />
+# START_HERE  <img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="45" padding="0" margin="0" />
 Landing Page for All My Projects and Repositories
 ***
 
