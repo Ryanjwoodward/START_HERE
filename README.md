@@ -5,7 +5,7 @@ Landing Page for All My Projects and Repositories
 # 1.) Digital Logic & Embedded Systems Courses
 > This Repository Contains Code, Documents, Circuit, and Projects from many of the courses I've taken from a Digial Logic Course by Udemy and Intel, an Embedded Systems Course by Intel, Embedded Systems Classes at Grand Canyon University, and Microchips Embedded Linux, SoC's, and Embedded System Design courses
 
-><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> Repo Home: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
+><img src="https://user-images.githubusercontent.com/48807137/235379843-2d05a8b3-4278-42ac-8694-ff6b80f33aac.png" width="25"/> Project Repo: https://github.com/Ryanjwoodward/Digital_Logic-and-Embedded_Systems-Courses
   
 ####  a.) Intel: Digital Logic Course
     
