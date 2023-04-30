@@ -1,4 +1,4 @@
-# START_HERE  <img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="45" padding="0" margin="0" />
+# START_HERE  <img src="https://user-images.githubusercontent.com/48807137/235379328-d2988283-5979-4cf4-bd13-4bf7f20792ec.png" width="40"/>
 Landing Page for All My Projects and Repositories
 ***
 
@@ -11,12 +11,13 @@ Landing Page for All My Projects and Repositories
     
 > _Intel'a Digital Logic Course_, through FPGA Acamdemy, is an excellent introduction covering the fundamentals of digital logic design. I'am working through both the **VHDL** and **Verilog** Labs Furthermore it provided a strong foundation to binary arithmetic, boolean algebra, logic gate design (AND, OR NOT, XOR, etc). The course involved working with the number systems such as Bnary and Hexadecimal, implementing integrated cirsuits in an **FPGA** on the **DE10-Lite board**, and  design a variety of circuit such as Flip-Flops, Adders, Multiplexers, etc. 
 
-> __Youtube Playlist:__ https://youtube.com/playlist?list=PL5teYV_4Hzy9KtVRJtWJTU3QsNaJEfMbA
+
+> <img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="45"/>__Youtube Playlist:__ https://youtube.com/playlist?list=PL5teYV_4Hzy9KtVRJtWJTU3QsNaJEfMbA
       
 ####  b.) Intel: Embedded Systems Course
 >_Intel's Embedded Systems Course_ through FPGA Academ provides an introduction to traditional programming of embedded systems using Linux. The course has an emphasis on I/O mehtodologies and the topics of the course include from memory-mapped I/O, Embedded Linux, Embedded Development, Kernel space & modules, interrupts, accelerometers, and working with audio and video perhipherals.
 
-> __Youtube Playlist:__![image](https://user-images.githubusercontent.com/48807137/235379167-0f640b20-fac4-4ff7-ab2e-59602da82b95.png)
+> __Youtube Playlist:__
 
 
 #### c.) Udemy Digital Logic Course
