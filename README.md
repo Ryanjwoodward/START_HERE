@@ -16,7 +16,8 @@ Landing Page for All My Projects and Repositories
 ####  b.) Intel: Embedded Systems Course
 >_Intel's Embedded Systems Course_ through FPGA Academ provides an introduction to traditional programming of embedded systems using Linux. The course has an emphasis on I/O mehtodologies and the topics of the course include from memory-mapped I/O, Embedded Linux, Embedded Development, Kernel space & modules, interrupts, accelerometers, and working with audio and video perhipherals.
 
-> __Youtube Playlist:__
+> __Youtube Playlist:__![image](https://user-images.githubusercontent.com/48807137/235379167-0f640b20-fac4-4ff7-ab2e-59602da82b95.png)
+
 
 #### c.) Udemy Digital Logic Course
 > Description of the course and what was involved here...
@@ -71,8 +72,6 @@ Landing Page for All My Projects and Repositories
 
 
 
-
-![image-removebg-preview (2)](https://user-images.githubusercontent.com/48807137/235379111-2c9e1d33-3a7c-4d4f-86dc-0c1a5d5d71c5.png)
 
 
 ***
