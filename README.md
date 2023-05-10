@@ -14,16 +14,10 @@ Landing Page for All My Projects and Repositories
 
 ><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Youtube Playlist:__ https://youtube.com/playlist?list=PL5teYV_4Hzy9KtVRJtWJTU3QsNaJEfMbA
       
-####  b.) Intel: Embedded Systems Course
->_Intel's Embedded Systems Course_ through FPGA Academ provides an introduction to traditional programming of embedded systems using Linux. The course has an emphasis on I/O mehtodologies and the topics of the course include from memory-mapped I/O, Embedded Linux, Embedded Development, Kernel space & modules, interrupts, accelerometers, and working with audio and video perhipherals.
-
-><img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Youtube Playlist:__
-
-
-#### c.) Udemy Digital Logic Course
+#### b.) Udemy Digital Logic Course
 > Description of the course and what was involved here...
  
-####  d.) Circuits
+####  c.) Circuits
 > This Section of the repository contains all the circuits I have written using hardware description languages such as **Verilog** or **VHDL**. These circuits have been written for projects and courses i've taken. These circuits inlude Adders, Multiplexers, Decoders, Counters, Flip-Flops, and many others.
 
 ![quad21mux - Made with Clipchamp](https://user-images.githubusercontent.com/48807137/235309499-691d55d5-07e6-4c2b-8ade-73b4532d3e1a.gif)
